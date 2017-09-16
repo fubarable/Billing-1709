@@ -1,0 +1,368 @@
+Jane Alice Doe 
+9/6/2017  8:58 AM   ED to Hosp-Admission 
+MRN:  111000 
+Description: 70 year old female	Location: VIDANT MEDICAL CENTER	Dept Phone: 252-847-4100
+ED to Hosp-Admission 
+9/6/2017 
+Jane Alice Doe  | MRN: 111000
+Patient Demographics and Encounter Information 
+Patient Information 
+
+Patient Name
+Doe, Jane Alice	HAR
+12970235	Sex
+Female	DOB
+7/6/1940	SSN
+xxx-xx-0000
+Patient Demographics 
+
+Address
+73 REX LN
+HOOKERTON NC 28538	Phone
+252-556-1111 (Home)
+252-551-1111 (Mobile)	E-mail Address
+3@vidanthealth.com
+ED Diagnosis 
+
+	Comments
+Acute systolic CHF (congestive heart failure) (HCC)  [953479] 	
+Atrial flutter with rapid ventricular response (HCC)  [406049] 	
+CKD stage 3 due to type 2 diabetes mellitus (HCC)  [1145693] 	
+DM type 2 with diabetic peripheral neuropathy (HCC)  [471805] 	
+Hypothyroidism, unspecified type  [1434205] 	
+OSA on CPAP  [470991] 	
+Pleural effusion  [256399] 	
+SOB (shortness of breath)  [256067] 	
+Acute on chronic diastolic congestive heart failure (HCC)  [403229] 	
+
+ 
+Chief Complaint 
+
+Complaint	Comment
+Shortness Of Breath	edoscopy scheduled for today, edema noted to right side three days ago; shortness of breath for months
+Admission Information 
+
+Attending Provider	Admitting Provider	Admission Type	Admission Date/Time
+Jones, Haile Atkins, MD	Sidhu, Rajinder, MD	EMERGENCY	09/06/17  0858
+Discharge Date	Hospital Service	Auth/Cert Status	Service Area
+	MEDICINE	Incomplete	VIDANT MEDICAL CENTER
+Unit	Room/Bed	Admission Status	Referring Provider
+2SOU-PIT	S204/S204	Admission (Confirmed)	
+Point of Origin			
+Non-Health Care Facility Point of Origin			
+
+ 
+Treatment Team 
+
+Treatment Team 
+Provider	Role	Specialty	From	To
+Moore, Donna M, ANA [201260]	Unit Secretary 	–	09/09/17 2212	–
+Menke, James A, RN [225116]	Charge Nurse 	–	09/09/17 1845	09/10/17 0709
+Perry, Georgia, RN [207869]	Charge Nurse 	–	09/09/17 1336	09/09/17 2100
+Taylor, Sandy, RN [E45561]	Registered Nurse 	–	09/07/17 1842	09/08/17 0442
+Baker, Danielle P, CP [E59022]	ANA/CP/NA 	–	09/06/17 1855	09/07/17 0855
+Menke, James A, RN [225116]	Charge Nurse 	–	09/06/17 1845	09/07/17 0845
+Harris, Terronda L, PAS Rep [224946]	PAS Representative 	–	09/06/17 1416	09/06/17 1659
+Allen, Lisa, PAS Rep [213641]	PAS Representative 	–	09/06/17 0900	09/06/17 1659
+Baylis, Alexandra N, RN [224981]	Registered Nurse 	–	09/06/17 0858	09/06/17 1644
+Boyd, Kathy W, PAS Rep [200018]	PAS Representative 	–	09/06/17 0857	09/06/17 1416
+Census History 
+
+	Unit	Room	Bed	Service	Event
+09/06/17 0858	Emergency Department	P040	P040	EMERGENCY DEPT	Admission
+09/06/17 1351	Emergency Department	P040	P040	EMERGENCY DEPT	Patient Update
+09/06/17 1355	Emergency Department	P040	P040	EMERGENCY DEPT	Patient Update
+09/06/17 1644	Emergency Department	P040	P040	EMERGENCY DEPT	Transfer Out
+09/06/17 1644	Emergency Department	Admit Proc Main	ADMP	EMERGENCY DEPT	Transfer In
+09/06/17 1659	Emergency Department	Admit Proc Main	ADMP	EMERGENCY DEPT	Transfer Out
+09/06/17 1659	2 South	S204	S204	MEDICINE	Transfer In
+Immunization History 
+Doe,Jane ALICE 
+Immunizations: (Not on File)
+Documentation and Orders 
+Problem List 
+Comment 
+
+Last edited by  on  at 
+Problem List 
+as of 9/10/2017 
+
+			Codes	Resolved	Hosp From	Hosp To
+Atrial flutter with rapid ventricular response (HCC)	ICD-9-CM: 427.32
+ICD-10-CM: I48.92		9/6/2017	
+DM type 2 with diabetic peripheral neuropathy (HCC)	ICD-9-CM: 250.60, 357.2
+ICD-10-CM: E11.42		9/6/2017	
+Depression	ICD-9-CM: 311
+ICD-10-CM: F32.9			
+Hypothyroidism	ICD-9-CM: 244.9
+ICD-10-CM: E03.9		9/6/2017	
+RESOLVED: Atrial fibrillation with RVR (HCC)	ICD-9-CM: 427.31
+ICD-10-CM: I48.91	3/4/2016		
+Acute on chronic diastolic congestive heart failure (HCC)	ICD-9-CM: 428.33, 428.0
+ICD-10-CM: I50.33		9/6/2017	
+Acute respiratory distress	ICD-9-CM: 518.82
+ICD-10-CM: R06.00			
+Chronic systolic CHF (congestive heart failure) (HCC)	ICD-9-CM: 428.22, 428.0
+ICD-10-CM: I50.22			
+Constipation	ICD-9-CM: 564.00
+ICD-10-CM: K59.00			
+OSA on CPAP	ICD-9-CM: 327.23
+ICD-10-CM: G47.33		9/6/2017	
+Hypomagnesemia	ICD-9-CM: 275.2
+ICD-10-CM: E83.42			
+CKD stage 3 due to type 2 diabetes mellitus (HCC)	ICD-9-CM: 250.40, 585.3
+ICD-10-CM: E11.22, N18.3		9/6/2017	
+Abnormal echocardiogram	ICD-9-CM: 793.2
+ICD-10-CM: R93.1			
+Atrial fibrillation (HCC)	ICD-9-CM: 427.31
+ICD-10-CM: I48.91			
+CHF (congestive heart failure) (HCC)	ICD-9-CM: 428.0
+ICD-10-CM: I50.9			
+Pneumonia due to Gram-negative bacteria (HCC)	ICD-9-CM: 482.83
+ICD-10-CM: J15.6			
+Shortness of breath	ICD-9-CM: 786.05
+ICD-10-CM: R06.02			
+Dyspnea on exertion	ICD-9-CM: 786.09
+ICD-10-CM: R06.09			
+Pleural effusion	ICD-9-CM: 511.9
+ICD-10-CM: J90		9/6/2017	
+Anemia, iron deficiency	ICD-9-CM: 280.9
+ICD-10-CM: D50.9			
+Anasarca	ICD-9-CM: 782.3
+ICD-10-CM: R60.1			
+SOB (shortness of breath)	ICD-9-CM: 786.05
+ICD-10-CM: R06.02		9/6/2017	
+
+Allergies as of 9/10/2017 
+Reviewed On: 9/8/2017 By: Harris, Renee W, RN 
+No Known Allergies 
+Allergy Review History 
+Reviews between Sep 09, 2017 1134 and Sep 10, 2017 1134 
+** No allergies reviewed in this time frame **
+Patient Reported Medications 
+
+Patient Reported Medications
+
+ 
+H&P Notes 
+
+H&P Notes
+Procedure Notes 
+
+Procedure Notes
+Consult Notes 
+
+Consult Notes
+Clinic Notes 
+
+Clinic Notes
+MD Progress Notes 
+
+MD Progress Notes
+Nursing Progress Notes 
+
+Nursing Progress Notes
+All Other Notes 
+
+All Other Notes
+ED MD Notes 
+
+ED MD Notes
+ED Nsg Notes 
+
+ED Nsg Notes
+ED Other Notes 
+
+ED Other Notes
+All Flowsheet Templates (all recorded) 
+
+Advance Directive
+Anes Documentation
+Assessment Adult
+Case Management Discharge Assessment
+Case Management Referral
+CPM (MISCELLANEOUS)
+ED Nurse Screening
+ED Reg Medicare Tricare
+ED RN Assessment
+ED Triage
+ED Vitals/Pain
+GI D/C Assessment
+GI Lab Admit Assessment
+GI Pre-Procedure
+GI Procedure Documentation
+Glucose Management
+Intake/Output
+Intervention 3
+MAR Flowsheet 2
+Non-Sedation Procedures
+PAS Adult
+PAS Valuables
+PIT Respiratory Flowsheet
+Risk Assessment
+SBAR
+Vascular Documentation
+Vital Signs
+Delivery SumJane 
+
+Delivery SumJane
+
+ 
+Order Information 
+
+Orders Report	Results Report	MAR Report
+Isolation 
+
+No Isolation
+Care Plan 
+
+Care Plan
+Care Plan Event Log 
+
+Care Plan Event Log
+Patient Education 
+
+Patient Education
+Documents on File 
+
+	Status	Date Received	Description
+Documents for the Patient
+HIM ROI Authorization	Not Received		
+AD: Copy of Advance Directive on File	N - Declined	09/06/17	
+Care Everywhere Consent	Patient Opt_In (Expired)	11/23/15	
+HIPAA Notice of Privacy	Yes	04/06/17	
+Insurance-Card	Yes	09/06/17	
+Patient-ID	Yes	08/08/17	
+MyChart Adult Proxy			
+MyChart Child Proxy			
+MyChart Release of Information			
+VMG Patient Registration Form			
+Care Everywhere Consent	Patient Opt_In (Expired)	01/01/15	
+HIPAA Notice of Privacy	Yes	01/07/15	
+Insurance-Card	 (Expired)	01/07/15	Insurance-Card
+HIPAA Notice of Privacy ECU	Received	11/12/15	
+BA/Consent ECU	Received (Expired)	11/12/15	
+Advance Directives and Living Will	Not Received		
+Video Consent FMC	Not Received		
+Video Consent Psych	Not Received		
+PHOTO ID/ECU	Received (Expired)	11/12/15	
+Insurance-Card	Yes	09/06/17	medicare Insurance-Card
+Insurance-Card	Yes (Expired)	03/04/16	state bcbs Insurance-Card
+PHOTO ID/ECU	 (Expired)	11/12/15	PHOTO ID/ECU
+HIPAA Notice of Privacy ECU		11/12/15	HIPAA Notice of Privacy ECU
+BA/Consent ECU	 (Expired)	11/12/15	BA/Consent ECU
+HIM ROI Authorization		11/16/15	Patient referred by Dr. Pippin for EMG
+Patient-ID		11/23/15	Patient-ID
+MyChart Adult Proxy		11/23/15	MyChart Adult Proxy
+Consent Form	Not Received		
+Pharmacy Medication Replacement Form			
+Consent - Recur Auth for Tx			
+Texting Consent			
+Miscellaneous PAS		11/08/12	CSN-DRIVERLIC-146703875-20183793 Miscellaneous PAS
+Miscellaneous PAS		11/08/12	CSN-INSCARD-146703876-20183793 Miscellaneous PAS
+Patient-ID		04/07/17	Patient-ID
+Patient-ID		06/08/17	Patient-ID
+Patient-ID		08/08/17	Patient-ID
+Insurance-Card		09/06/17	Insurance-Card
+HIPAA Notice of Privacy	Received (Deleted)	06/02/06	service area default
+Documents for the Encounter
+AD: Want information on advance directives	Declined	09/06/17	
+AD: Any change-Advance Directive on file	No	09/06/17	
+DNB-Restriction Requested			
+No Publicity 			
+BA-Consent Received	Yes	09/06/17	
+POS Receipts Scanned			
+Medicare Rights Received	Yes	09/06/17	
+Tricare Rights Received			
+Pre-Certification Form			
+Insurance-Authorized			
+VM Transport Received			
+Patient Valuables			
+Involuntary Commitment Received			
+CMS Second IMM			
+Data Quality-WQ MSPQ			
+Referral Miscellaneous			
+Nephrology Visit			
+Adoption Information			
+Joint Replacement Notice			
+Financial Assistance Program			
+MOON Leave AMA			
+MOON			
+BA-Consent Received		09/06/17	BA-Consent Received
+Medicare Rights Received		09/06/17	Medicare Rights Received
+Post-Anesthesia Progress Note		09/08/17	Post-Anesthesia Progress Note
+Consent - Operation/Procedure/Anesth		09/08/17	Consent - Operation-Procedure-Anesth
+Anesthesia Record		09/08/17	Anesthesia Record
+Procedure Cardiac - EKG		09/06/17	IMAGNOWDP EKG
+Rhythm Strip Analysis		09/07/17	Rhythm Strip Analysis
+Rhythm Strip Analysis		09/08/17	Rhythm Strip Analysis
+Rhythm Strip Analysis		09/08/17	Rhythm Strip Analysis
+Discharge Orders 
+
+Discharge Orders
+Discharge SumJane 
+
+Discharge SumJane
+Discharge Instructions 
+
+Discharge Instructions
+ED Discharge SumJane 
+
+ED Dispo SumJane
+Hospital Account# 12970235 
+
+Payor	Plan
+MEDICARE	MEDICARE
+2 
+
+Payor	Plan
+STATE HEALTH PLAN	STATE HEALTH PLAN PPO
+PriJane Visit Coverage 
+
+Payor	Plan	Group Number	Group Name	Payor Address	Payor Phone	Coverage Address	Claim Attention
+MEDICARE	MEDICARE						
+PriJane visit coverage subscriber 
+
+Subscriber ID	Subscriber Name	Subscriber SSN	Subscriber Address
+246900000A	Doe,Jane ALICE	xxx-xx-0000	73 REX LN
+			HOOKERTON, NC 28538
+Secondary Visit Coverage 
+
+Payor	Plan	Group Number	Group Name	Payor Address	Payor Phone	Coverage Address	Claim Attention
+STATE HEALTH PLAN	STATE HEALTH PLAN PPO	SR1009			888-234-2416		
+Secondary Visit Coverage Subscriber 
+
+Subscriber ID	Subscriber Name	Subscriber SSN	Subscriber Address
+YPYW1262305701	Doe,Jane ALICE	xxx-xx-0000	73 REX LN
+			HOOKERTON, NC 28538
+PriJane Coverage 
+
+Payor	Plan	Group Number	Group Name	Payor Address	Payor Phone	Coverage Address	Claim Attention
+MEDICARE	MEDICARE						
+PriJane Subscriber 
+
+Subscriber ID	Subscriber Name	Subscriber SSN	Subscriber Address
+246900000A	Doe,Jane ALICE	xxx-xx-0000	73 REX LN
+			HOOKERTON, NC 28538
+Secondary Coverage 
+
+Payor	Plan	Group Number	Group Name	Payor Address	Payor Phone	Coverage Address	Claim Attention
+MEDICARE	MEDICARE						
+Secondary Subscriber 
+
+Subscriber ID	Subscriber Name	Subscriber SSN	Subscriber Address
+246900000A	Doe,Jane ALICE	xxx-xx-0000	73 REX LN
+			HOOKERTON, NC 28538
+Glucose Management 
+
+Glucose Mgmt (as of 09/06/17)
+Facesheet 
+
+Facesheet
+
+ 
+ED Encounter Synopsis 
+
+ED Encounter Synopsis
+
+
